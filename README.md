@@ -1,4 +1,4 @@
-# Individual predictions
+# Persönliche
 
 [!https://brandmaier.github.io/barnum/predictions/winter.html]
 [!https://brandmaier.github.io/barnum/predictions/fruehling.html]

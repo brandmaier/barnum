@@ -1,0 +1,18 @@
+---
+title: "Persönliche Vorhersage"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sie finden im Folgenden eine individuelle Persönlichkeitsbeschreibung auf Grundlage ihres Sternzeichens. Bitte folgen Sie dem Link entsprechend ihres Sternzeichens. Dort finden Sie eine Persönlichkeitsbeschreibung. Lesen Sie diese durch und bewerten anschließend, wie gut diese auf Sie zutrifft.
+
+- [Tierkreis Frühling (Widder, Stier, Zwilling) 21.März – 21. Juni](https://brandmaier.github.io/barnum/predictions/fruehling.html)
+
+- [Tierkreis Sommer (Krebs, Löwe, Jungfrau) 22.Juni – 22.September](https://brandmaier.github.io/barnum/predictions/sommer.html)
+
+- [Tierkreis Herbst (Waage, Skorpion, Schütze) 23.September – 20. Dezember](https://brandmaier.github.io/barnum/predictions/herbst.html)
+
+- [Tierkreis Winter (Steinbock, Wassermann, Fisch) 21.September – 20.März](https://brandmaier.github.io/barnum/predictions/winter.html)
