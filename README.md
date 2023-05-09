@@ -1,6 +1,4 @@
-# Persönliche
 
-[!https://brandmaier.github.io/barnum/predictions/winter.html]
-[!https://brandmaier.github.io/barnum/predictions/fruehling.html]
-[!https://brandmaier.github.io/barnum/predictions/somme.html]
-[!https://brandmaier.github.io/barnum/predictions/herbst.html]
+Hier mitmachen:
+
+[!https://brandmaier.github.io/barnum/versuch.html]
